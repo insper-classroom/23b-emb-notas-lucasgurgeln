@@ -1,10 +1,10 @@
 Nome: LUCAS GURGEL\
 \
-Lab (Média): 0 (I)\
+Lab (Média): 3 (I)\
 \
-LAB 1 (PIO): 			-\
-LAB 2 (DRIVER): 			-\
-LAB 3 (PIO IRQ): 			-\
+LAB 1 (PIO): 			10\
+LAB 2 (DRIVER): 			10\
+LAB 3 (PIO IRQ): 			5\
 LAB 4 (RTOS): 			-\
 LAB 5 (RTOS - HC-SR04): 	-\
 LAB 6 (RTOS - IMU): 		-\
